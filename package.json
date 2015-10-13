@@ -1,0 +1,13 @@
+{
+	"name": "cs46n-data-visualization",
+	"version": "0.0.1",
+	"description": "Data Visualization showing countries' economic growth versus their net energy usage.",
+	"author": "Shrey Gupta",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "4.8.x"
+	}
+}
+	
